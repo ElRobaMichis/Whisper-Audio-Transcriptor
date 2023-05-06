@@ -29,7 +29,7 @@ This project allows you to record audio and transcribe it using OpenAI's Whisper
 ## Installation
 
 1. Clone this repository:
-`git clone https://github.com/your_username/your_repository.git`
+`git clone https://github.com/ElRobaMichis/Whisper-Audio-Transcriptor`
 	
 2. Install the dependencies
 `pip install -r requirements.txt`

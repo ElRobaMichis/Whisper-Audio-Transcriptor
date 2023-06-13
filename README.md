@@ -6,38 +6,26 @@ This project allows you to record audio and transcribe it using OpenAI's Whisper
 
 - Python 3.7+
 
-- PyAudio
-
-- PyDub
-
-- Whisper
-
-- Numba
-
-- wave
-
-- os
-
-- sys
-
-- datetime
-
-- errno
-
-- keyboard
+- [`ffmpeg`](https://ffmpeg.org/)
 
 ## Installation
 
 1. Clone this repository:
-`git clone https://github.com/ElRobaMichis/Whisper-Audio-Transcriptor`
+```sh
+git clone https://github.com/ElRobaMichis/Whisper-Audio-Transcriptor
+```
 	
 2. Install the dependencies
-`pip install -r requirements.txt`
+```sh
+pip install -r requirements.txt
+```
 
 ## Usage
 
 1. Run the "menu.py" script with:
-`python menu.py`
+```sh
+python menu.py
+```
 	
 2. Follow the on-screen instructions to record and transcribe the audio.
 
